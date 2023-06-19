@@ -1,0 +1,17 @@
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\bin\Debug\net6.0-windows\kelimeOyunuOdev.exe
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\bin\Debug\net6.0-windows\kelimeOyunuOdev.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\bin\Debug\net6.0-windows\kelimeOyunuOdev.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\bin\Debug\net6.0-windows\kelimeOyunuOdev.dll
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\bin\Debug\net6.0-windows\kelimeOyunuOdev.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.Form1.resources
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.csproj.GenerateResource.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.dll
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\refint\kelimeOyunuOdev.dll
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\kelimeOyunuOdev.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\okul c#\kelimeOyunuOdev\kelimeOyunuOdev\obj\Debug\net6.0-windows\ref\kelimeOyunuOdev.dll
